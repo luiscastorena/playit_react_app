@@ -1,0 +1,19 @@
+.hovereffect:hover .overlay {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgba(0, 0, 0, 0.6);
+    font-size: 30px;
+    display: block;
+    z-index: 1;
+    
+  }
+
+  Grid MediaCard{
+    width: 100%;
+    height: 100%;
+    float: left;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    cursor: default;
+  }

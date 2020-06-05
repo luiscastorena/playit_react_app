@@ -1,0 +1,40 @@
+
+header nav a {
+	display:inline-block;
+	color: dimgrey;
+	text-decoration:none;
+	padding:10px 20px;
+	line-height:normal;
+	font-size:20px;
+	font-weight:bold;
+	-webkit-transition:all 500ms ease;
+	-o-transition:all 500ms ease;
+	transition:all 500ms ease;
+}
+header nav a:hover {
+text-decoration: none;
+}
+ 
+.Logo{
+	float: left;
+}
+
+
+nav{
+	float: right;
+	margin-top: 10px;
+}
+
+Link {
+	display:inline-block;
+	color: dimgrey;
+	text-decoration:none;
+	padding:10px 20px;
+	line-height:normal;
+	font-size:20px;
+	font-weight:bold;
+	-webkit-transition:all 500ms ease;
+	-o-transition:all 500ms ease;
+	transition:all 500ms ease;
+}
+

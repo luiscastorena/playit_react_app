@@ -1,0 +1,26 @@
+
+header .logo {
+	color:#f2f2f2;
+	font-size:50px;
+	line-height:100px;
+    float:right;
+    height: 80px;
+    width: 80px;
+    margin-top: 5px;
+}
+
+
+
+.imagenLogo{
+    width: 100px;
+    height: 100px;
+}
+
+
+div img:hover{
+    -webkit-transform:scale(1.05);
+    -moz-transform:scale(1.05);
+    -ms-transform:scale(1.05);
+    -o-transform:scale(1.05);
+    transform:scale(1.05);
+}
